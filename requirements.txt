@@ -14,3 +14,6 @@ sympy>=1.10.1
 
 # Machine learning ----------------------------
 sklearn
+seaborn
+pmdarima
+statsmodels
